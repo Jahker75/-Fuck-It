@@ -1,0 +1,18 @@
+body {
+  background-color:#123456;
+  width: 1489px;
+  margin:auto;
+  font-family:Copperplate;
+  background: #blue;
+  color: Green;
+  text-align: center;
+  Font-size:25px
+}
+h1 {
+  color:Green;
+}
+a {
+  color:Olive;
+  Font-size:50px;
+  font-family:helvetica;
+}
