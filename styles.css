@@ -13,10 +13,16 @@ h1 {
 }
 a {
   color:#5d432c;
+  Font-size:25px;
+  font-family:Copperplate;
+}
+a1{
+  color:#5d432c;
   Font-size:40px;
-  font-family:helvetica;
+  font-family:Copperplate;
 }
 h2{Font-size:30px}
 h3{Font-size:40px}
 h4{Font-size:40px}
 h5{font-size:40px}
+h6{Font-size}
